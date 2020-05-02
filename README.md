@@ -6,8 +6,8 @@
 # evidencias 
 
 ### **agrega y elimina tareas **
-![tareas](/recortes/tareas.PNG)
+![tarea](/recortes/tarea.PNG)
 
 
 ### **codigo scss, importe de boostrap y conversion a css **
-![tareas](/recortes/code.PNG)
+![code](/recortes/code.PNG)
